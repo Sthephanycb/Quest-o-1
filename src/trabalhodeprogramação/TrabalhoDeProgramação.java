@@ -8,14 +8,14 @@ public class TrabalhoDeProgramação {
         c1.setName("Sistemas de Informação");
         c1.setCodeCourse(54321);
         User use1 = new User();
-        use1.setName("Sthephany");
-        use1.setLast_name("Barbosa");
-        use1.setEmail("sthephanycb@icloud.com");
+        use1.setName("Eduardo");
+        use1.setLast_name("Souza");
+        use1.setEmail("duduzino759@gmail.com");
         use1.setPassword("87654321");
         Address a1 = new Address();
         a1.setCep("69305160");
-        a1.setIdAddress(90);
-        a1.setPublic_place("Gaúcho Dias");
+        a1.setIdAddress(2062);
+        a1.setPublic_place("Moacir");
         a1.setUf("RR");
         a1.setCity("Boa Vista");
                        
